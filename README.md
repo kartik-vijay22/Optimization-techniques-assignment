@@ -1,11 +1,5 @@
 # Optimization Techniques Assignment
 
-## Student Information
-
-- **Name:** Kartik Vijaywergiya
-- **Roll Number:** 2501AI31
-- **Course:** Operations Research / Optimization Techniques
-- **Assignment:** Assignment 1
 
 This repository contains the Python implementations for Assignment 1 on Operations Research / Optimization Techniques. The problems are formulated around practical optimization scenarios and solved using the Big-M Simplex Method and the Transportation Method with Vogel's Approximation Method (VAM) and MODI.
 
